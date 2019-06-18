@@ -4,6 +4,12 @@ https://github.com/AbrahamCaiJin/CommonUtilLibrary
 《9.0》
 android:networkSecurityConfig="@layout/network_security_config"
 
+《project.allprojects.repositories下面的粘性头部局》
+maven { url 'https://jitpack.io' }
+
+《粘性头部局》
+implementation 'com.github.qdxxxx:StickyHeaderDecoration:1.0.1'
+
 《防止错乱》
 configurations.all {
 		resolutionStrategy.eachDependency { DependencyResolveDetails details ->
