@@ -4,6 +4,9 @@ https://github.com/AbrahamCaiJin/CommonUtilLibrary
 《9.0》
 android:networkSecurityConfig="@layout/network_security_config"
 
+《jsoup网站》
+https://www.open-open.com/jsoup/selector-syntax.htm
+
 《project.allprojects.repositories下面的粘性头部局》
 maven { url 'https://jitpack.io' }
 
